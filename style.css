@@ -219,7 +219,7 @@ section {
 /*logo*/
 .logo{
   position:relative;
-  top:20px;
+  top:-5px;
 }
 /*Focus*/
 .focus{
