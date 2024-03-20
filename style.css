@@ -223,7 +223,7 @@ section {
 }
 /*Focus*/
 .focus{
-  fobt-size:15px;
+  fobt-size:10px;
   position:relative;
   top:-10px;
 }
